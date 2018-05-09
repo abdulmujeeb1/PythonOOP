@@ -16,4 +16,4 @@ class SomeClassName:
 
 
 stackObject = SomeClassName('Zeus', True)
-print(stackObject.name)
+print(f" The name passed is {stackObject.name}")
